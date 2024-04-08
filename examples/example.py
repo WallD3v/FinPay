@@ -1,4 +1,4 @@
-from FinPay.api import FinPayAPI, FinPayInvoice
+from FinPay import FinPayAPI, FinPayInvoice
 
 api = FinPayAPI(1337,
                 '*****',
